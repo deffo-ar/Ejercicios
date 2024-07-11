@@ -8,7 +8,7 @@ echo "\n";
 if ($usuario != "") {
     echo "Bienvenido " . $usuario . ", ya puedes navegar nuestra página.";
 } else {
-    echo "Debe ingresar un nombre.";
+    echo "Debe ingresar un nombre!";
 }
 
 ?>
